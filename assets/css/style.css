@@ -204,3 +204,18 @@ header .line {
     background-position: left;
 }
 /*para parte da area 5*/
+
+.area5 {
+    background-image: url("../images/bg4.jpg");
+    background-position: center;
+    background-size: cover;
+    height: 700px;
+}
+/*para parte do rodapé*/
+
+footer {
+    background-color: #333;
+    color: #FFF;
+    text-align: center;
+    padding: 80px;
+}
