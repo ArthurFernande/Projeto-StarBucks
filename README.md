@@ -23,7 +23,7 @@
 
 # Preview 🖥️
 
-Veja o projeto funcionando <a href=""> aqui.</a>
+Veja o projeto funcionando <a href="https://arthurandrade-starbucks.netlify.app/"> aqui.</a>
 
 # Tecnologias 🚀
 
